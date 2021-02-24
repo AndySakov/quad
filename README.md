@@ -2,7 +2,7 @@
 **THIS IS A NODE PROJECT** as you might've surmised so run it with node
 _P.S you can find the command in the `package.json` file_
 
-##Stuff to note
+## Stuff to note
 * I used arrow functions throughout
 * There are some bugs I haven't quite figured out yet with the numbers and their tendency to explode when `a > 1`
 * I used an external module for the prompting called `prompt-sync` which you can install using the following command in the project directory on terminal
