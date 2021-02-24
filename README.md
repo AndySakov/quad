@@ -17,7 +17,7 @@ _P.S you can find the command in the `package.json` file_
             console.log(a)
         }
     ```
-    This is just a function I carried over from being used to Scala that wraps around the console.log function for output in JS
+    This is just a function I carried over from being used to Scala that wraps around the `console.log` function for output in JS
 * **`gcd` function**
     ```javascript
         const gcd = (a, b) => {
